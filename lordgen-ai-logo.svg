@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 120" width="680" height="120" role="img" aria-label="LordGen AI">
+  <title>LordGen AI — primary lockup</title>
+
+  <!--
+    LORDGEN AI · PRIMARY LOCKUP
+    Mark drawn on a 120-unit grid. Member width 14, gap 8, baseline rule 6,
+    heights step in 24-unit increments. No curves. Never rotates.
+    Wordmark: Archivo 800 · -3.5% tracking. Suffix: Archivo 400 · +34% tracking · gold.
+    Divider: 2px. Mark height = cap height x 1.94.
+  -->
+
+  <g id="mark">
+    <!-- members: outer 60, mid 84, centre 108 -->
+    <rect x="0"  y="48" width="14" height="60"  fill="#C9A24B"/>
+    <rect x="22" y="24" width="14" height="84"  fill="#C9A24B"/>
+    <rect x="44" y="0"  width="14" height="108" fill="#F0E2BC"/>
+    <rect x="66" y="24" width="14" height="84"  fill="#C9A24B"/>
+    <rect x="88" y="48" width="14" height="60"  fill="#C9A24B"/>
+    <!-- baseline rule -->
+    <rect x="0" y="114" width="102" height="6" fill="#C9A24B"/>
+  </g>
+
+  <rect id="divider" x="132" y="0" width="2" height="120" fill="#C9A24B"/>
+
+  <text x="164" y="84"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="800" font-size="85" letter-spacing="-2.98" fill="#FFFFFF">LORDGEN<tspan
+        font-weight="400" font-size="34" letter-spacing="11.56" fill="#C9A24B" dx="20">AI</tspan></text>
+
+  <text x="166" y="116"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="400" font-size="17" letter-spacing="3.7" fill="#8C8A85">GENERATIVE INTELLIGENCE, GOVERNED</text>
+</svg>
